@@ -2,7 +2,7 @@
 
 My name is Gabriele Chiossi and I'm a Computer Science students, Software Developer. I am from Italy, living in Athens, Ohio. 
 
-###Connect with me:
+### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]: https://www.linkedin.com/in/gabriele-chiossi-92331b1a7/
 <br />
 
