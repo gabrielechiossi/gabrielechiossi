@@ -1,8 +1,8 @@
-### Hello, folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **gabrielechiossi/gabrielechiossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+My name is Gabriele Chiossi and I'm a Computer Science students, Software Developer. I am from Italy, living in Athens, Ohio. 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
